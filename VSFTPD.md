@@ -21,7 +21,7 @@ verification du serveur :
 $ sudo systemctl status vsftpd
 
 
-Connection aux sevreur vsftpd
+Connection aux sevreur vsftpd:
 
 $ ftp "votre address ip"
 
