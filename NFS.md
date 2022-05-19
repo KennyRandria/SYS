@@ -9,7 +9,12 @@ puis : mkdir /var/shared-data ;
 chown root:root /var/shared-data;
 chmod 755 /var/shared-data;
 
+<img src="https://github.com/KennyRandria/SYS/blob/main/images/NFS2.png" alt="">
+
+
 Partage de dossier :/etc/exports 
+
+<img src="https://github.com/KennyRandria/SYS/blob/main/images/NFS.png" alt="">
 
 lecture seul et tous le monde peut y accéder :
  /var/a-public-folder *(ro,insecure,all_squash)
