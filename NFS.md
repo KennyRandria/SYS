@@ -1,5 +1,7 @@
 N F S :
 
+Le NFS, pour Network File System, est un protocole permettant à un ordinateur d'accéder à des fichiers extérieurs via un réseau. Développé dans les années 80, le NFS s'est ensuite imposé comme la norme en matière de serveur de fichiers.
+
 -D'abord la mis à jour des packages avec : apt-get install nfs-kernel-server 
 
 mais il faut ajouter un dossier dans /var et droits absolu pour tous les root.
