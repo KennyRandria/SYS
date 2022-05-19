@@ -7,6 +7,8 @@ Installer et configurer le serveur Web Apache:
  sudo apt update
 Installez le package apache2 :
   sudo apt install apache2
+  
+  <img src="https://github.com/KennyRandria/SYS/blob/main/images/aPACHE2.png" alt="">
 
 2 — Configurer le pare-feu :
 - verifier les profils app d'ufw  :
@@ -16,6 +18,8 @@ Installez le package apache2 :
 3 -Vérification du serveur Web
  Service :
  sudo systemctl status apache2
+
+<img src="https://github.com/KennyRandria/SYS/blob/main/images/APACHE.png" alt="">
 
 Normalement la Page d'acceuil par défaut d'apache est activée,
 Pour y accéder ouvrez le navigateur en tapant : locahost:80 et voilà la page devrait se manifester
