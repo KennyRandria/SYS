@@ -14,3 +14,5 @@ sudo service nginx restart
 4.Exemple dans le dossier sites-enabled , on peut créer et modifier un site comme avec html css puis l'envoyer sur sites-available avec : ln -s /etc/nginx/sites-available
 Surtout bien vérifier la syntaxe de configuration avec :sudo nginx -t pour éviter les erreurs et après tout cela on peut redémarrer le service Nginx
 le site devrait être accessible sur un lien http://nom attribué au site
+
+<a href = 'https://github.com/KennyRandria/SYS/'>RETOUR</a>
