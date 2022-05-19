@@ -22,4 +22,6 @@ showmount -e 198.165.0.250 permet d'afficher du genre : Export for 198.165.0.250
 
 On peut monter une machine serveur sur le client avec : mkdir/home/nfs
 puis : mount -t nfs 198.165.0.250:/home/nfs /home/nfs
-Pour vérifier le montage on tape : df -h (
+Pour vérifier le montage on tape : df -h 
+
+<a href = 'https://github.com/KennyRandria/SYS/'>RETOUR</a>
