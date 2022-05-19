@@ -1,5 +1,7 @@
 #Apache
 
+°Apache est un logiciel de serveur web gratuit et open-source qui alimente environ 46% des sites web à travers le monde. Le nom officiel est Serveur Apache HTTP et il est maintenu et développé par Apache Software Foundation.°
+
 Installer et configurer le serveur Web Apache:
 
 1 — Installation d’Apache
