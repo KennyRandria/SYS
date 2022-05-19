@@ -4,7 +4,9 @@ S A M B A :
 
 -Mis à jour des packages avec : apt update
 
-- Installez Samba avec la commande :apt-get install samba
+- Installez Samba avec la commande :apt-get install samba et il y a aussi : apt install samba
+
+ <img src="https://github.com/KennyRandria/SYS/blob/main/images/samba-001-install-samba.png" alt="">
 
 - Configurations :
 
