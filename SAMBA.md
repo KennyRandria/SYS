@@ -25,3 +25,5 @@ Création de fichier : mkdir smat
 -Finalement, redémarer le serveur SAMBA Avec : /etc/init.d/samba restart
 
 Et SAMBA devrait être installé et configuré
+
+<a href = 'https://github.com/KennyRandria/SYS/'>RETOUR</a>
