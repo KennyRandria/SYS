@@ -1,5 +1,9 @@
 S A M B A :
 
+.Petit Propos : Samba facilite l'interopérabilité entre systèmes hétérogènes Windows-Unix. Il offre la possibilité aux ordinateurs d'un réseau d'accéder aux imprimantes et aux fichiers des ordinateurs sous Unix et permettent aux serveurs Unix de se substituer à des serveurs Windows.
+
+Installation et configuration :
+
 - Root connection(su)
 
 -Mis à jour des packages avec : apt update
