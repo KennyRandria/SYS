@@ -1,5 +1,6 @@
-
 N G N I X :
+
+Nginx, stylisé comme NGIИX, est un serveur Web qui peut également être utilisé comme proxy inverse, équilibreur de charge, proxy de messagerie et cache HTTP. Le logiciel a été créé par Igor Sysoev et rendu public en 2004. Nginx est un logiciel gratuit et open-source, publié selon les termes de la licence BSD à 2 clauses.
 
 1. Comme d'habitude :
 sudo apt-get update : mise à jour
