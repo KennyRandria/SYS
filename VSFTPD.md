@@ -1,9 +1,11 @@
 V S F T P D:
-Mis à jour : $ sudo apt update
+
+
+La Mise à jour : $ sudo apt update
 
 L'installation :$ sudo apt install vsftpd
 
-verification :
+Verification si ça s'est bien passé :
 
 $ whereis vsftpd
 
