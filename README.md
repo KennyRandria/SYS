@@ -10,7 +10,3 @@ Bonjour/Bonsoir ceci est un repository pour la matière : Système concernant l'
 4 - <a href='https://github.com/KennyRandria/SYS/blob/main/NFS.md'>N F S</a>
 
 5 - <a href='https://github.com/KennyRandria/SYS/blob/main/VSFTPD.md'>V S F T P D</a>
-
- <a href='https://github.com/KennyRandria'>Kenny Randria STD21088</a>
- 
-<a href='https://github.com/KennyRandria'>Kenny Randria STD21088</a>
